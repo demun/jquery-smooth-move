@@ -8,7 +8,7 @@ jQuery 가 있어야 합니다.
 
 ## Demo
 
-[http://htmlpreview.github.io/?https://github.com/demun/jquery-smooth-move/blob/master/demo/demo.html](demo.html)
+[demo.html](http://htmlpreview.github.io/?https://github.com/demun/jquery-smooth-move/blob/master/demo/demo.html)
 
 
 ## Install
