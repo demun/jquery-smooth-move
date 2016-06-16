@@ -1,0 +1,25 @@
+{
+  "name": "jquery-smooth-move",
+  "homepage": "https://github.com/demun/jquery-smooth-move",
+  "authors": "demun <hjm01@naver.com>",
+  "description": "jquery-smooth-move webfont",
+  "main": "",
+  "keywords": [
+    "jquery-smooth-move",
+    "jquery.smooth.move",
+    "smooth",
+    "smooth.scroll"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
