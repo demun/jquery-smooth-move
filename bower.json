@@ -1,17 +1,17 @@
 {
   "name": "jquery-smooth-move",
+  "homepage": "https://github.com/demun/jquery-smooth-move",
   "version": "0.1.0",
   "main": "jquery-smooth-move.js",
-  "homepage": "https://github.com/demun/jquery-smooth-move",
-  "authors": [
-    "demun <hjm01@naver.com>"
-  ],
   "description": "jquery smooth move",
   "keywords": [
     "jquery-smooth-move",
     "jquery.smooth.move",
     "smooth",
     "smooth.scroll"
+  ],
+  "authors": [
+    "demun <hjm01@naver.com>"
   ],
   "license": "MIT",
   "ignore": [
