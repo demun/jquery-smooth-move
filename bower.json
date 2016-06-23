@@ -1,9 +1,9 @@
 {
   "name": "jquery-smooth-move",
-  "homepage": "https://github.com/demun/jquery-smooth-move",
   "version": "0.1.0",
-  "main": "jquery-smooth-move.js",
+  "homepage": "https://github.com/demun/jquery-smooth-move",
   "description": "jquery smooth move",
+  "main": "jquery-smooth-move.js",
   "keywords": [
     "jquery-smooth-move",
     "jquery.smooth.move",

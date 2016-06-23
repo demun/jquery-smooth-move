@@ -26,3 +26,6 @@ bower install jquery-smooth-move
 
 <h1 id="target">Target</h1>
 ```
+
+## License
+Released under the [MIT license](http://www.opensource.org/licenses/MIT).
