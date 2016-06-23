@@ -2,7 +2,7 @@
   "name": "jquery-smooth-move",
   "version": "0.1.0",
   "homepage": "https://github.com/demun/jquery-smooth-move",
-  "description": "jquery smooth move",
+  "description": "jquery smooth move, 클릭시 부드럽게 이동하는 스크립트",
   "main": "jquery-smooth-move.js",
   "keywords": [
     "jquery-smooth-move",
